@@ -151,6 +151,8 @@ MariaDB → MySQL. Pronto para Git e para replay entre ambientes.
 
 ## Fale com a gente
 
-**[dbabrabo.com.br](https://dbabrabo.com.br)** · [LinkedIn](https://www.linkedin.com/company/dbabrabo) · [@dbabrabo](https://instagram.com/dbabrabo) · fundador: [@acaciolr](https://github.com/acaciolr)
+**[dbabrabo.com.br](https://dbabrabo.com.br)** · [LinkedIn](https://www.linkedin.com/company/dbabrabo) · [@dbabrabo](https://instagram.com/dbabrabo)
+
+**Fundadores:** [Acácio Lima Rocha](https://github.com/acaciolr) (@acaciolr) · [Luis Macedo](https://github.com/luishenriquejm) (@luishenriquejm) · Weverton Amorim
 
 <p align="center"><sub>Banco caiu e ninguém sabe por quê? É aqui que a gente aprende a descobrir.</sub></p>
