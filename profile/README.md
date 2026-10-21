@@ -95,15 +95,57 @@ O próximo da fila.
 
 ## Ferramentas abertas
 
-### [ORA BRABO](https://github.com/acaciolr/ora-brabo) · `em produção`
+Código aberto, nascido de problema real de produção. Tudo roda no terminal, por SSH,
+sem agente e sem servidor web para expor.
 
-Monitoramento Oracle direto no terminal, em Textual. 12 painéis por teclas de função,
+### Monitoração no terminal
+
+#### [ORA BRABO](https://github.com/acaciolr/ora-brabo) · `em produção`
+
+*The Dolphie for Oracle. The OEM you can SSH into.* 12 painéis por teclas de função,
 cobrindo RAC, Data Guard, ASM e Exadata, com coletores assíncronos.
 
-### [SQL BRABO](https://github.com/acaciolr/sql-brabo) · `em homologação`
+`Oracle` `Python` `Textual`
 
-Monitoração e diagnóstico de SQL Server no terminal — é o painel que os laboratórios
-de SQL Server usam para observar o que está acontecendo nos nós.
+#### [SQL BRABO](https://github.com/acaciolr/sql-brabo) · `em homologação`
+
+*O Activity Monitor que você acessa por SSH.* Monitoramento operacional de SQL Server
+no terminal — é o painel que os laboratórios de SQL Server usam para observar os nós.
+
+`SQL Server` `Python` `TUI`
+
+#### [PG BRABO](https://github.com/acaciolr/pg_brabo) · `em desenvolvimento`
+
+*The pgAdmin you SSH into.* Cockpit PostgreSQL no terminal: monitoramento,
+performance, backup/recovery, replicação, HA e segurança.
+
+`PostgreSQL` `Python` `TUI`
+
+### Diagnóstico e operação
+
+#### [ORACLE RECOVERY BRABO](https://github.com/acaciolr/oracle-recovery-database-framework) · `em desenvolvimento`
+
+Orquestrador de backup, restore e recovery Oracle para Unix, guiado pelo princípio
+**descobrir → validar → planejar → mostrar comandos → mostrar riscos** antes de
+executar qualquer coisa. Shell POSIX (`ksh`/`sh`), 14 áreas.
+
+`Oracle` `RMAN` `Shell`
+
+#### [BSAR — BRABO Slow Analyze Report](https://github.com/acaciolr/bsar)
+
+Analisador de *slow query log* do MySQL, MariaDB e Percona **no estilo AWR**: agrega
+por *fingerprint*, compara períodos e entrega relatório no terminal e em HTML
+interativo. Zero dependências externas.
+
+`MySQL` `MariaDB` `Percona` `Python`
+
+#### [MySQL Export Users](https://github.com/acaciolr/dbabrabo_mysqlexportusers) · `v2.2`
+
+Extensão nativa do **MySQL Shell** que exporta usuários, roles e privilégios em SQL
+idempotente, gera `REVOKE`s para rollback e auditoria e converte sintaxe
+MariaDB → MySQL. Pronto para Git e para replay entre ambientes.
+
+`MySQL Shell` `MySQL` `MariaDB` `Python`
 
 ---
 
