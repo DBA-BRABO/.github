@@ -107,14 +107,14 @@ cobrindo RAC, Data Guard, ASM e Exadata, com coletores assíncronos.
 
 `Oracle` `Python` `Textual`
 
-#### [SQL BRABO](https://github.com/acaciolr/sql-brabo) · `em homologação`
+#### [SQL BRABO](https://github.com/acaciolr/sql-brabo) · `em produção`
 
 *O Activity Monitor que você acessa por SSH.* Monitoramento operacional de SQL Server
 no terminal — é o painel que os laboratórios de SQL Server usam para observar os nós.
 
 `SQL Server` `Python` `TUI`
 
-#### [PG BRABO](https://github.com/acaciolr/pg_brabo) · `em desenvolvimento`
+#### [PG BRABO](https://github.com/acaciolr/pg_brabo) · `em produção`
 
 *The pgAdmin you SSH into.* Cockpit PostgreSQL no terminal: monitoramento,
 performance, backup/recovery, replicação, HA e segurança.
@@ -123,7 +123,7 @@ performance, backup/recovery, replicação, HA e segurança.
 
 ### Diagnóstico e operação
 
-#### [ORACLE RECOVERY BRABO](https://github.com/acaciolr/oracle-recovery-database-framework) · `em desenvolvimento`
+#### [ORACLE RECOVERY BRABO](https://github.com/acaciolr/oracle-recovery-database-framework) · `em produção`
 
 Orquestrador de backup, restore e recovery Oracle para Unix, guiado pelo princípio
 **descobrir → validar → planejar → mostrar comandos → mostrar riscos** antes de
@@ -131,7 +131,7 @@ executar qualquer coisa. Shell POSIX (`ksh`/`sh`), 14 áreas.
 
 `Oracle` `RMAN` `Shell`
 
-#### [BSAR — BRABO Slow Analyze Report](https://github.com/acaciolr/bsar)
+#### [BSAR — BRABO Slow Analyze Report](https://github.com/acaciolr/bsar) · `em produção`
 
 Analisador de *slow query log* do MySQL, MariaDB e Percona **no estilo AWR**: agrega
 por *fingerprint*, compara períodos e entrega relatório no terminal e em HTML
@@ -139,7 +139,7 @@ interativo. Zero dependências externas.
 
 `MySQL` `MariaDB` `Percona` `Python`
 
-#### [MySQL Export Users](https://github.com/acaciolr/dbabrabo_mysqlexportusers) · `v2.2`
+#### [MySQL Export Users](https://github.com/acaciolr/dbabrabo_mysqlexportusers) · `em produção`
 
 Extensão nativa do **MySQL Shell** que exporta usuários, roles e privilégios em SQL
 idempotente, gera `REVOKE`s para rollback e auditoria e converte sintaxe
