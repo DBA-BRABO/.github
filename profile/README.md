@@ -86,9 +86,11 @@ VMs reais em Oracle Linux 9 (Vagrant + VirtualBox): RAC de 2 nós com ASM e
 *interconnect* privativo, Data Guard, e um grupo de **engineered systems** com
 Exadata e ZDLRA.
 
-### MongoDB Super DBA · `em desenvolvimento`
+### MongoDB Super DBA · `em homologação`
 
-O próximo da fila.
+Replica set, sharding, backup/restore com PITR pelo oplog, upgrade/FCV, segurança
+(TLS/x.509, autenticação, roles), benchmark, health/monitoring e chaos/recovery —
+cada opção do menu opera sobre instâncias MongoDB em execução via `mongosh`.
 
 > Os laboratórios são **privados**: o acesso é liberado para os mentorados da DBA BRABO.
 
