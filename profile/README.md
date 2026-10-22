@@ -85,6 +85,14 @@ de verdade.
 
 `MySQL` `InnoDB Cluster` `NDB` `PXC` `Multipass`
 
+### Oracle Super DBA · `em desenvolvimento`
+
+VMs reais em Oracle Linux 9 (Vagrant + VirtualBox): RAC de 2 nós com ASM e
+*interconnect* privativo, Data Guard, e um grupo de **engineered systems** com
+Exadata e ZDLRA.
+
+`Oracle` `RAC` `ASM` `Data Guard` `Exadata` `Vagrant`
+
 ### MongoDB Super DBA · `em desenvolvimento`
 
 O próximo da fila.
