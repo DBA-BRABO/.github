@@ -147,6 +147,15 @@ MariaDB → MySQL. Pronto para Git e para replay entre ambientes.
 
 `MySQL Shell` `MySQL` `MariaDB` `Python`
 
+#### [MyBraboSat](https://github.com/acaciolr/mybrabosat) · `em produção`
+
+*Security assessment de MySQL num único `.sql`.* 53 verificações somente leitura —
+contas, privilégios, criptografia, configuração, auditoria e LGPD — com severidade,
+comando de correção e nota de postura de 0 a 100. HTML autocontido, PDF e texto
+para o terminal. É o assessment do menu Security dos laboratórios de MySQL.
+
+`MySQL` `SQL` `Segurança` `LGPD`
+
 ---
 
 ## Fale com a gente
