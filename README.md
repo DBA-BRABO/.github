@@ -82,22 +82,16 @@ Monitoramento Oracle direto no terminal, construído em Textual. 12 painéis ace
 teclas de função, cobrindo RAC, Data Guard, ASM e Exadata. Os coletores são assíncronos —
 a interface não trava esperando query voltar.
 
-`Python` `Textual` `Oracle` `RAC` `Data Guard` `ASM` `Exadata`
-
 ### [SQL BRABO](https://github.com/acaciolr/sql-brabo) · `em homologação`
 
 Automação e diagnóstico para SQL Server: análise de tempdb, restore automatizado com
 stored procedures próprias e rotinas de import/export via BCP.
-
-`SQL Server` `T-SQL` `PowerShell` `BCP`
 
 ### MySQL Super DBA v3.0 · `em homologação`
 
 Orquestrador de laboratório sobre VMs Multipass que provisiona 19 topologias MySQL
 completas — InnoDB Cluster, Group Replication, NDB, Percona XtraDB Cluster — com cenários
 de caos e recuperação para treinar troubleshooting de verdade.
-
-`Python` `Rich` `Multipass` `tmux` `MySQL`
 
 ### PG BRABO · `em desenvolvimento` &nbsp;&nbsp; Recover Database Framework · `em desenvolvimento`
 
