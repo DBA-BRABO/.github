@@ -4,7 +4,7 @@
   <a href="https://dbabrabo.com.br"><img src="https://img.shields.io/badge/dbabrabo.com.br-FF8A4C?style=for-the-badge&logo=googlechrome&logoColor=0A0A0A"></a>
   <a href="https://www.linkedin.com/company/dbabrabo"><img src="https://img.shields.io/badge/LinkedIn-DBA%20BRABO-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://instagram.com/dbabrabo"><img src="https://img.shields.io/badge/Instagram-@dbabrabo-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://github.com/acaciolr"><img src="https://img.shields.io/badge/Fundador-Ac%C3%A1cio%20Lima%20Rocha-2ED8C3?style=for-the-badge&logo=github&logoColor=0A0A0A"></a>
+  <a href="#fale-com-a-gente"><img src="https://img.shields.io/badge/Fundadores-Ac%C3%A1cio%20%C2%B7%20Luis%20%C2%B7%20Weverton-2ED8C3?style=for-the-badge&logo=github&logoColor=0A0A0A"></a>
 </p>
 
 ---
@@ -21,8 +21,9 @@ with a measurable result.
 ## Sobre
 
 A DBA BRABO é uma **mentoria técnica para DBAs**, fundada por
-[Acácio Lima Rocha](https://github.com/acaciolr) — Oracle ACE Associate, 12+ anos em
-ambientes onde parada custa caro.
+[Acácio Lima Rocha](https://github.com/acaciolr) (Oracle ACE Associate),
+[Luis Macedo](https://github.com/luishenriquejm) e Weverton Amorim — DBAs com anos de
+estrada em ambientes onde parada custa caro.
 
 Não é curso gravado. É **acompanhamento em cima de ambiente real**, com trilha por
 tecnologia: o aluno sobe o cluster, derruba a primária, restaura o backup, acha o
