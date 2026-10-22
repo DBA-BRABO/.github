@@ -80,17 +80,17 @@ Currículo de 112 tópicos executáveis: teoria → laboratório → validação
 XtraDB Cluster — com cenários de caos e recuperação para treinar troubleshooting
 de verdade.
 
-### Oracle Super DBA · `em desenvolvimento`
-
-VMs reais em Oracle Linux 9 (Vagrant + VirtualBox): RAC de 2 nós com ASM e
-*interconnect* privativo, Data Guard, e um grupo de **engineered systems** com
-Exadata e ZDLRA.
-
 ### MongoDB Super DBA · `em homologação`
 
 Replica set, sharding, backup/restore com PITR pelo oplog, upgrade/FCV, segurança
 (TLS/x.509, autenticação, roles), benchmark, health/monitoring e chaos/recovery —
 cada opção do menu opera sobre instâncias MongoDB em execução via `mongosh`.
+
+### Oracle Super DBA · `em desenvolvimento`
+
+VMs reais em Oracle Linux 9 (Vagrant + VirtualBox): RAC de 2 nós com ASM e
+*interconnect* privativo, Data Guard, e um grupo de **engineered systems** com
+Exadata e ZDLRA.
 
 > Os laboratórios são **privados**: o acesso é liberado para os mentorados da DBA BRABO.
 
